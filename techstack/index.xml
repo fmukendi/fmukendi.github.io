@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Stack on Documentation for Hugo Learn Theme</title>
+    <link>https://fmukendi.github.io/techstack/</link>
+    <description>Recent content in Tech Stack on Documentation for Hugo Learn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://fmukendi.github.io/techstack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
